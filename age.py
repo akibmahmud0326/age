@@ -1,6 +1,6 @@
 print ("Hello")
 
-a = 10
+age = 10
 
 b = 9
 
